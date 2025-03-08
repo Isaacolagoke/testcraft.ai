@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="120" cy="120" r="120" fill="#F0F7F7" />
+  
+  <!-- Calendar Base -->
+  <rect x="60" y="70" width="120" height="100" rx="8" fill="white" stroke="#06545E" stroke-width="2"/>
+  
+  <!-- Calendar Header -->
+  <rect x="60" y="70" width="120" height="30" rx="8" fill="#06545E"/>
+  
+  <!-- Calendar Dots -->
+  <circle cx="100" cy="120" r="4" fill="#06545E"/>
+  <circle cx="120" cy="120" r="4" fill="#06545E"/>
+  <circle cx="140" cy="120" r="4" fill="#06545E"/>
+  
+  <circle cx="80" cy="140" r="4" fill="#06545E"/>
+  <circle cx="100" cy="140" r="4" fill="#06545E"/>
+  <circle cx="120" cy="140" r="4" fill="#06545E"/>
+  <circle cx="140" cy="140" r="4" fill="#06545E"/>
+  <circle cx="160" cy="140" r="4" fill="#06545E"/>
+  
+  <!-- Sparkles -->
+  <path d="M180 60L183 63L186 60L183 57L180 60Z" fill="#06545E"/>
+  <path d="M50 140L53 143L56 140L53 137L50 140Z" fill="#06545E"/>
+  <path d="M160 180L163 183L166 180L163 177L160 180Z" fill="#06545E"/>
+  
+  <!-- Clock Hand Animation -->
+  <g transform="rotate(-45 120 85)">
+    <rect x="118" y="75" width="4" height="15" rx="2" fill="white"/>
+  </g>
+</svg> 
